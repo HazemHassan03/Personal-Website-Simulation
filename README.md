@@ -1,4 +1,4 @@
-# Personal-Website-Simulation
+# Personal Website Simulation
 I developed a responsive landing page that functions like a personal website. This page was created by me using HTML and CSS and is fully responsive on all devices using Flexbox, Grid, and Media Queries.
 
 The page consists of 14 sections: Landing, Articles, Gallery, Features, Testimonials, Team Members, Services, Our Skills, How It Works, Events, Pricing Plans, Top Videos, Stats, and Request A Discount.
